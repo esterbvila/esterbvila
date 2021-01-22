@@ -10,7 +10,7 @@ Having this two perspectives allows me to offer efficient and creative solutions
 
 - ⚡ Fun fact **I have an Instagram with my own artistic creations**
 <p align="left">
-<a href="https://instagram.com/@esterisc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>

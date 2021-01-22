@@ -12,9 +12,9 @@ Having this two perspectives allows me to offer efficient and creative solutions
 - ⚡ Fun fact **I have an Instagram with my own artistic creations** <a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
 
 
-- Connect with me&nbsp;<a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
+- 🤝 Connect with me&nbsp;<a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
 
-- 📫 Contact me &nbsp;ester.batllori@gmail.com
+- 📫 Contact me ester.batllori@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 

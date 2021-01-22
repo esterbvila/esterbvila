@@ -5,10 +5,11 @@ My name is Ester Batllori and I am a **Frontend Web Developer**
 🌱 I am currently learning **Vue and React**
 
 <h3 align="left">Connect with me:</h3>
- 📫 **ester.batllori@gmail.com**
 <p align="left">
-<a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="20" width="30" /></a>
 </p>
+<h3 align="left">Contact me:</h3>
+📫 **ester.batllori@gmail.com**
 
 <h3 align="left">Languages:</h3>
 <h3 align="left">Tools:</h3>

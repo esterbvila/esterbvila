@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Ester Batllori</h1>
+<h1 align="center">Hi 👋,&nbsp;I'm Ester Batllori</h1>
 <h3 align="center">A frontend developer based in Barcelona</h3>
 
 <p>Currently looking for job positions as a Junior Frontend Developer💻</p>

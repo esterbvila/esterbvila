@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**esterbvila/esterbvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### My name is Ester Batllori and I am a **Frontend Web Developer** 💻
 ### Interested in a job position as a Junior Frontend Developer.

@@ -2,8 +2,7 @@
 My name is Ester Batllori and I am a **Frontend Web Developer** 
 <p>Currently looking for job positions as a Junior Frontend Developer💻</p>
 
-🌱 Learnin **Vue <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-and React**
+🌱 Learning **Vueand React**
 
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="30" width="40" /></a></p>

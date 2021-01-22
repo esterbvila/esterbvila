@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="center">A frontend developer based in Barcelona</h3>
 
-After graduating in Advertising and Public Relations by the Autonomous University of Barcelona I decided to apply everything I learned to the Web Development sector, doing a BootCamp Web Development at BIT Academy.
-Having this two perspectives allows me to offer efficient and creative solutions that meet the clients' communicative needs. 
+<p align="center">After graduating in Advertising and Public Relations by the Autonomous University of Barcelona I decided to apply everything I learned to the Web Development sector, doing a BootCamp Web Development at BIT Academy.
+Having this two perspectives allows me to offer efficient and creative solutions that meet the clients' communicative needs.</p> 
 
-- 💻 Currently looking for job positions as a Junior Frontend Developer
-
-
+- 💻 Currently looking for job positions as a **Junior Frontend Developer**
 
 - 🌱 Learning **Vue and React**
 
 
-- ⚡ Fun fact **I have an Instagram with my own artistic creations**
-<p align="left">
-<a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact **I have an Instagram with my own artistic creations** <a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="30" width="40" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="30" width="40" /></a></p>

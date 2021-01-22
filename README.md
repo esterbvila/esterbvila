@@ -1,4 +1,4 @@
-### My name is Ester Batllori and I am a **Frontend Web Developer** 👋
+### Hi 👋  My name is Ester Batllori and I am a **Frontend Web Developer** 
 ### Interested in a job position as a Junior Frontend Developer💻
 
 

@@ -1,6 +1,6 @@
 ### Hi 👋  
 My name is Ester Batllori and I am a **Frontend Web Developer** 
-Interested in job positions as a Junior Frontend Developer💻
+<p>Interested in job positions as a Junior Frontend Developer💻</p>
 
 🌱 I am currently learning **Vue and React**
 

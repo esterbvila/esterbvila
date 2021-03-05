@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="center">A frontend developer based in Barcelona</h3>
 
+<h3 align="center">Check out my latest project with Dani Fernandez! -> https://github.com/danifdezalonso/hourglass-app   ->https://hourglass-dani-ester.netlify.app/</h3>
+
 <p align="center">After graduating in Advertising and Public Relations by the Autonomous University of Barcelona I decided to apply everything I learned to the Web Development sector, doing a BootCamp Web Development at BIT Academy.
 Having this two perspectives allows me to offer efficient and creative solutions that meet the clients' communicative needs.</p> 
 

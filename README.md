@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ester Batllori</h1>
-<h3 align="center">A frontend developer based in Barcelona</h3>
+<h3 align="center">A frontend developer & Publicist based in Barcelona</h3>
 
 <h3 align="center">Check out my latest project with danifdezalonso at https://github.com/danifdezalonso/hourglass-app </h3>
 
@@ -9,7 +9,7 @@
 
 - 💻 Currently looking for job positions as a **Junior Frontend Developer**
 
-- 🌱 Learning **Vue and React**
+- 🌱 Learning **React**
 
 - ⚡ Fun fact **I have an Instagram with my own artistic creations, check it out!** <a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
 

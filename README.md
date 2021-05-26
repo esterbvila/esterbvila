@@ -5,7 +5,7 @@
 
 <p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp by BIT Academy. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
 
-- 👨‍💻 All of my projects are available at [https://esterbvila.github.io/](https://esterbvila.github.io/)
+- 👨‍💻 This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
 
 - 💻 Currently looking for job positions as a **Junior Frontend Developer**
 

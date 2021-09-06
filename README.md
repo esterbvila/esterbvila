@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ester Batllori</h1>
+<h1 align="center">Hi 👋&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="center">A frontend developer & Publicist based in Barcelona</h3>
 
 - 👨‍💻 Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer and Designer.

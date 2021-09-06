@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="center">A frontend developer & Publicist based in Barcelona</h3>
 
-- 👨‍💻 Currently working at Stipple Framework as a Frontend Developer and Designer.
+- 👨‍💻 Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer and Designer.
 
 <p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
 

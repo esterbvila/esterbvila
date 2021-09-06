@@ -7,9 +7,9 @@
 
 - 🌱 Learning **Vue**
 
-- ⚡ Fun fact **I have an Instagram with my own artistic creations, check it out!** <a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
+- ⚡ Fun fact **I have an Instagram with <a href="https://www.instagram.com/esterisc_/" target="blank">my own artistic creations, check it out!** <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
 
-- 🤝 Connect with me&nbsp;<a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
+- 🤝 <a href="https://www.linkedin.com/in/esterbatllori/" target="blank"> Connect with me&nbsp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
 
 - 📫 Contact me ester@stipple.app
 

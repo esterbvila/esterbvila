@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="center">A frontend developer & Publicist based in Barcelona</h3>
 
-<h3 align="center">Check out my latest project with danifdezalonso at https://github.com/danifdezalonso/hourglass-app </h3>
+<h3 align="left">👨‍💻 Currently working at Stipple Framework</h3>
 
 <p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp by BIT Academy. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
 
-- 👨‍💻 This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
+- 👉 This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
 
-- 💻 Currently looking for job positions as a **Junior Frontend Developer**
-
-- 🌱 Learning **React**
+- 🌱 Learning **Vue**
 
 - ⚡ Fun fact **I have an Instagram with my own artistic creations, check it out!** <a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
 

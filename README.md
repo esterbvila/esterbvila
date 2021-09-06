@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="center">A frontend developer & Publicist based in Barcelona</h3>
 
-- 👨‍💻 Currently working at Stipple Framework
+- 👨‍💻 Currently working at Stipple Framework as a Frontend Developer and Designer.
 
-<p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp by BIT Academy. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
+<p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
 
 - 👉 This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
 
 - 🌱 Learning **Vue**
 
 - ⚡ Fun fact **I have an Instagram with my own artistic creations, check it out!** <a href="https://www.instagram.com/esterisc_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
-
 
 - 🤝 Connect with me&nbsp;<a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
 

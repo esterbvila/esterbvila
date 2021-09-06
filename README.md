@@ -3,8 +3,6 @@
 
 - 👨‍💻 Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer and Designer.
 
-<p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
-
 - 👉 This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
 
 - 🌱 Learning **Vue**
@@ -14,6 +12,8 @@
 - 🤝 Connect with me&nbsp;<a href="https://www.linkedin.com/in/esterbatllori/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
 
 - 📫 Contact me ester.batllori@gmail.com
+
+<p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 

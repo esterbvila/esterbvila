@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="left">A frontend developer & Publicist based in Barcelona</h3>
 
-- 👨‍💻 Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer and Designer.
+- 👨‍💻 Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer & Designer.
 
 - 👉 This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
 

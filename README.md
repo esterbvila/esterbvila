@@ -13,7 +13,7 @@
 
 - 📫&nbsp;Contact me ester@stipple.app
 
-<p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
+<p align="left">After graduating in advertising & PR I decided to go the extra mile and complement my formation by enrolling on a web development bootcamp. Having this two perspectives, together with my experience in graphic & web design allows me to develop creative and aesthetic applications that meet clients' communicative needs.</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 

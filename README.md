@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋&nbsp;&nbsp;I'm Ester Batllori</h1>
 <h3 align="left">A Frontend Developer & Publicist based in Barcelona</h3>
 
-- 👨‍💻  Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer & Designer.
+- 👨‍💻&nbsp;Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer & Designer.
 
-- 👉  This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
+- 👉&nbsp;This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
 
-- 🌱  Learning **Vue**
+- 🌱&nbsp;Learning **Vue**
 
-- ⚡  Fun fact **I have an Instagram with <a href="https://www.instagram.com/esterisc_/" target="blank">my own artistic creations** <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
+- ⚡&nbsp;Fun fact **I have an Instagram with <a href="https://www.instagram.com/esterisc_/" target="blank">my own artistic creations** <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
 
-- 🤝  Connect with <a href="https://www.linkedin.com/in/esterbatllori/" target="blank"> me&nbsp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
+- 🤝&nbsp;Connect with <a href="https://www.linkedin.com/in/esterbatllori/" target="blank"> me&nbsp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
 
-- 📫  Contact me ester@stipple.app
+- 📫&nbsp;Contact me ester@stipple.app
 
 <p align="left">After graduating in Advertising & Public Relations I decided to go the extra mile and complement my formation by enrolling on a Web Development Bootcamp. Having this two perspectives, together with my previous professional experience on social media planning and digital marketing campaigns, allows me to offer creative and aesthetic solutions that meet clients' communicative needs.</p> 
 

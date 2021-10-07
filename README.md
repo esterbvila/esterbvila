@@ -3,7 +3,7 @@
 
 - 👨‍💻&nbsp;Currently working at <a href="https://github.com/GenieFramework">Genie Framework</a> as a Frontend Developer & Designer.
 
-- 👉&nbsp;This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)
+<!--- 👉&nbsp;This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)-->
 
 - 🌱&nbsp;Learning **Vue**
 

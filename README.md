@@ -11,7 +11,7 @@
 
 - 🤝&nbsp;Connect with <a href="https://www.linkedin.com/in/esterbatllori/" target="blank"> me&nbsp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="25" width="35" /></a>
 
-- 📫&nbsp;Contact me ester@stipple.app
+- 📫&nbsp;Contact me ester.batllori@gmail.com
 
 <p align="left">After graduating in advertising & PR I decided to go the extra mile and complement my formation by enrolling on a web development bootcamp. Having this two perspectives, together with my experience in graphic & web design allows me to develop creative and aesthetic applications that meet clients' communicative needs.</p> 
 

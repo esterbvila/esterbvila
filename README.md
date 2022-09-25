@@ -5,7 +5,7 @@
 
 <!--- 👉&nbsp;This is my personal site [https://esterbvila.github.io/](https://esterbvila.github.io/)-->
 
-- 🌱&nbsp;Learning **Vue**
+- 🌱&nbsp;Learning **React**
 
 - ⚡&nbsp;Fun fact **I have an Instagram with <a href="https://www.instagram.com/esterisc_/" target="blank">my own artistic creations** <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@esterisc_" height="25" width="35" /></a>
 
